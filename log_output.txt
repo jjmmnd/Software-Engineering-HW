@@ -1,0 +1,6 @@
+[Jimin Yun] Mon May 19 19:45:16 2025 +0900 add Use Case Diagram 4521bee
+[Jimin Yun] Mon May 19 19:35:54 2025 +0900 add Use Case Descriptions 5d4423b
+[Jimin Yun] Mon May 19 19:35:32 2025 +0900 add Requirement List 7af910b
+[Jimin Yun] Mon May 19 19:18:47 2025 +0900 Delete RequirementList.docx 57b2529
+[Jimin Yun] Mon May 19 19:07:06 2025 +0900 add RequirementList b79c5e9
+[Jimin Yun] Mon May 19 15:15:11 2025 +0900 Initial commit fe10db0
