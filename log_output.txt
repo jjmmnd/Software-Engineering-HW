@@ -1,3 +1,6 @@
+[Jimin Yun] Tue May 20 11:09:22 2025 +0900 add Communication Diagram 193d5a6
+[Jimin Yun] Tue May 20 11:08:59 2025 +0900 add Analysis Class Diagram a433743
+[jjmmnd] Tue May 20 04:12:59 2025 +0900 Create log_output.txt 618f5de
 [Jimin Yun] Mon May 19 19:45:16 2025 +0900 add Use Case Diagram 4521bee
 [Jimin Yun] Mon May 19 19:35:54 2025 +0900 add Use Case Descriptions 5d4423b
 [Jimin Yun] Mon May 19 19:35:32 2025 +0900 add Requirement List 7af910b
